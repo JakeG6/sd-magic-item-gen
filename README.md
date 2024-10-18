@@ -1,1 +1,0 @@
-# sd-magic-item-gen
